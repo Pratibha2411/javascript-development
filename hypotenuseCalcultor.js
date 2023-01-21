@@ -5,19 +5,21 @@ let valueA;
 let valueB;
 let valueC;
 
+
+document.getElementById("anyText").innerHTML = "Above Find Hypotenuse C = √a2 + b2";
 document.getElementById("submitButton").innerHTML = "Submit"
 
 document.getElementById("submitButton").onclick = () => {
     
     valueA = document.getElementById("inputnText").value;
-    valueB = document.getElementById("inputnAnotherText").value;
-    
     valueA = Number(valueA);
+
+    valueB = document.getElementById("inputnAnotherText").value;
     valueB = Number(valueB);
     
-    valueC = Math.sqrt(Math.pow(valueA) + Math.pow(valueB));
+    valueC = Math.sqrt(Math.pow(valueA, 2) + Math.pow(valueB, 2));
 
+    document.getElementById("anyText").innerText = "C = √a2 + b2 is: " + valueC;
     console.log(valueC);
-
-    document.getElementById("submitButton").innerHtml = "C = √a2 + b2 === " + valueC;
-}
+    
+} 
