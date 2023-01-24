@@ -1,0 +1,1 @@
+// array = think of it as a variable that can store multiple values
