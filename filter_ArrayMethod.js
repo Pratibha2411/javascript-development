@@ -1,0 +1,1 @@
+// filter method - Array.filter() = creates a new array with all elements that pass the test provided by a function.
