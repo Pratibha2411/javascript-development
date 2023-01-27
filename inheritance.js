@@ -1,0 +1,1 @@
+// inheritance = inheritance is when a child class inherits all the methods and properties from another class.
