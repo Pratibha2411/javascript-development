@@ -61,4 +61,17 @@
    ### Starting object Oriented Programming in JS
 
    55. Objects
-   56. 
+   56. this_keyword
+   57. classes
+   58. constructor
+   59. static
+   60. inheritance
+   61. super_keyword
+   62. getters_&_setters
+   63. objects-asAn-arguments
+   64. arrays-of-Objects
+   65. anonymous-objects
+   66. error-handling
+   67. setTimeout_&_clearTimeout
+   68. setInterval
+   69. 
