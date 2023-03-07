@@ -1,4 +1,4 @@
-### Creating this practice course + learn JS within a day.
+### Creating this practice course + learn JS within few days.
 
 ## Also developing 2-4 projects at the end of the series.
 
